@@ -1,0 +1,1 @@
+The gallery/ folders contain 54 website-ready photos (converted and resized for browser compatibility). Open original-gallery.zip for all 54 uploaded files with their original names, formats and quality.
